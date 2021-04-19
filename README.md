@@ -3,7 +3,7 @@
 Simple card for showcase page.
 
 **Owner and Maintainer** : Swapna Sama
-**Git hub site**:
+**Git hub site**:http://swapnasama.me/personal-card/
 
 **Credits**:
 
